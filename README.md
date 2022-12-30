@@ -5,4 +5,6 @@
 -->
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <br>
-<img alt="파이썬" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-flat-square&logo=Python&logoColor=black"/>
+<p align = "center">
+<img alt="파이썬" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-flat-square&logo=Python&logoColor=white"/>
+</p>
