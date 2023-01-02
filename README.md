@@ -18,7 +18,7 @@
 </p>
 <h3 align="left"><b>🌈 Follow Me 🌈</b></h3>
 <p align = "left">
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dkssudqhal/"/></a>&nbsp
+  <a href="https://www.instagram.com/dkssudqhal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dkssudqhal/"/></a>&nbsp
 
  
 
