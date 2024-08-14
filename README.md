@@ -19,9 +19,3 @@
 <h3 align="left"><b>🌈 Follow Me 🌈</b></h3>
 <p align = "left">
   <a href="https://www.instagram.com/dkssudqhal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dkssudqhal/"/></a>&nbsp
-
- 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bomii1&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bomii1&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bomii1&theme=solarized)
